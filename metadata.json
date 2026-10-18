@@ -1,0 +1,6 @@
+{
+  "name": "E-Cycle Lens: E-Waste Circuit & Material Analyzer",
+  "description": "Intelligent computer vision system to detect PCB components, quantify recoverable precious metals (Au, Ag, Cu, Ta, Pd), audit hazardous substances, and calculate urban mining yields.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
